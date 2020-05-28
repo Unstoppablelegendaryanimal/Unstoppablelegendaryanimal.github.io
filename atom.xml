@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-05-28T06:07:39.156Z</updated>
+    <updated>2020-05-28T06:37:50.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://unstoppablelegendaryanimal.github.io/images/avatar.png</logo>
     <icon>https://unstoppablelegendaryanimal.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Utopiosphere</rights>
+    <entry>
+        <title type="html"><![CDATA[《战争飞行员》第二章]]></title>
+        <id>https://unstoppablelegendaryanimal.github.io/post/lesslesszhan-zheng-fei-xing-yuan-greatergreater-di-er-zhang/</id>
+        <link href="https://unstoppablelegendaryanimal.github.io/post/lesslesszhan-zheng-fei-xing-yuan-greatergreater-di-er-zhang/">
+        </link>
+        <updated>2020-05-28T06:29:20.000Z</updated>
+    </entry>
 </feed>
