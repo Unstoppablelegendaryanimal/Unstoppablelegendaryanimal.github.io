@@ -4,7 +4,7 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>全龙宴 | Utopiosphere</title>
-<link rel="shortcut icon" href="https://unstoppablelegendaryanimal.github.io/favicon.ico?v=1590658941099">
+<link rel="shortcut icon" href="https://unstoppablelegendaryanimal.github.io/favicon.ico?v=1590659177721">
 <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
 <link rel="stylesheet" href="https://unstoppablelegendaryanimal.github.io/styles/main.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
@@ -118,33 +118,32 @@
         
 
         
-            
-                <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+		
+		
+			<script src='https://unpkg.com/valine/dist/Valine.min.js'></script>
 
-<div id="gitalk-container"></div>
+<style>
+	div#vcomments{
+		width:100%;
+		max-width: 1000px;
+		padding: 2.5%
+	}
+</style>
+
+
+	<div id="vcomments"></div>
 
 <script>
-
-  var gitalk = new Gitalk({
-    clientID: 'd58e980300177e4a31c1',
-    clientSecret: 'c8225b176876061a9bdddaff29114890fc1507d3',
-    repo: 'unstoppablelegendaryanimal.github.io',
-    owner: 'Unstoppablelegendaryanimal',
-    admin: ['Unstoppablelegendaryanimal'],
-    id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
+	new Valine({
+		el: '#vcomments',
+		appId: '',
+		appKey: '',
+		avatar: 'hide',
+		pageSize: 5,
+		recordIp: true,
+		placeholder: 'Just Go Go'
+	});
 </script>
-
-            
-
-            
-        
-		
 		
 
         <div class="site-footer gt-c-content-color-first">
