@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-05-28T16:55:19.117Z</updated>
+    <updated>2020-05-28T16:56:21.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
@@ -18,12 +18,12 @@
         <updated>2020-05-28T13:57:00.000Z</updated>
         <summary type="html"><![CDATA[<font face="仿宋">
 <blockquote>
-<p>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</p>
+<p><strong>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</strong></p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<font face="仿宋">
 <blockquote>
-<p>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</p>
+<p><strong>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</strong></p>
 </blockquote>
 ]]></content>
     </entry>
