@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-05-28T09:01:31.266Z</updated>
+    <updated>2020-05-28T09:15:37.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://unstoppablelegendaryanimal.github.io/images/avatar.png</logo>
     <icon>https://unstoppablelegendaryanimal.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Utopiosphere</rights>
+    <entry>
+        <title type="html"><![CDATA[全龙宴]]></title>
+        <id>https://unstoppablelegendaryanimal.github.io/quan-long-yan/</id>
+        <link href="https://unstoppablelegendaryanimal.github.io/quan-long-yan/">
+        </link>
+        <updated>2020-05-28T09:04:06.000Z</updated>
+    </entry>
 </feed>
