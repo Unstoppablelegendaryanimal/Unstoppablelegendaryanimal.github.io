@@ -1728,7 +1728,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
 }
 
         .gt-bg-theme-color-first {
-          background: #c1fbdc!important;
+          background: #c3fae8!important;
         }
         
         .gt-bg-theme-color-second {
@@ -1744,15 +1744,15 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-bg-accent-color-first {
-          background: #fcffb8!important;
+          background: #fff3bf!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(252,255,184,0.2)!important;
+          background: RGBA(255,243,191,0.2)!important;
         }
         
         .gt-c-theme-color-first {
-          color: #c1fbdc!important;
+          color: #c3fae8!important;
         }
         
         .gt-c-theme-color-second {
@@ -1768,11 +1768,11 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         .gt-c-accent-color-first {
-          color: #fcffb8!important;
+          color: #fff3bf!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(252,255,184,0.2)!important;
+          color: RGBA(255,243,191,0.2)!important;
         }
         
         body {
@@ -1780,39 +1780,39 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
         }
         
         a {
-          color: #fcffb8!important;
+          color: #fff3bf!important;
         }
         
         .post-content h1 {
           display: inline-block;
           color: #495057!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(252,255,184,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(255,243,191,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
           color: #495057!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(252,255,184,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(255,243,191,0.4) 0)!important;
         }
         
         .gt-a-link {
           color: #495057!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(252,255,184,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(255,243,191,0.4) 0)!important;
         }
         
         .gt-post-content a {
-          color: #fcffb8!important;
+          color: #fff3bf!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(252,255,184,0.2)!important;
-          border-color: #fcffb8!important;
+          background: RGBA(255,243,191,0.2)!important;
+          border-color: #fff3bf!important;
         }
         
         .gt-post-content code {
-          background: RGBA(252,255,184,0.2)!important;
+          background: RGBA(255,243,191,0.2)!important;
         }
          
