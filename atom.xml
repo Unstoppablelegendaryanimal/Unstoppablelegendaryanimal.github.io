@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-05-28T16:16:22.091Z</updated>
+    <updated>2020-05-28T16:21:37.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
@@ -41,11 +41,15 @@
         </link>
         <updated>2020-05-28T09:53:17.000Z</updated>
         <summary type="html"><![CDATA[<font face="宋体"> 
+<blockquote>
 <h2 id="center你无需考虑别人的命运却也不能将自己的命运交给别人去承担-center"><center>“你无需考虑别人的命运，却也不能将自己的命运交给别人去承担。”</center></h2>
+</blockquote>
 </font>
 ]]></summary>
         <content type="html"><![CDATA[<font face="宋体"> 
+<blockquote>
 <h2 id="center你无需考虑别人的命运却也不能将自己的命运交给别人去承担-center"><center>“你无需考虑别人的命运，却也不能将自己的命运交给别人去承担。”</center></h2>
+</blockquote>
 </font>
 ]]></content>
     </entry>
