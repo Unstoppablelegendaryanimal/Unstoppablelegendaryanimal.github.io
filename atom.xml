@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-05-28T07:48:58.598Z</updated>
+    <updated>2020-05-28T08:23:50.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
-    <subtitle>“ 我们是一个庞大的建筑物里的碎片，&lt;br /&gt;&lt;br /&gt;得用更多的时间、更多的沉默，&lt;br /&gt;&lt;br /&gt;退得更远，&lt;br /&gt;&lt;br /&gt;才能看清楚该怎样把它们连接起来。”</subtitle>
+    <subtitle>&lt;font face=&quot;simsun&quot; color=&quot;black&quot; font size=&quot;4&quot;&gt;“我们是一个庞大的建筑物里的碎片，&lt;br /&gt;&lt;br /&gt;得用更多的时间、更多的沉默，&lt;br /&gt;&lt;br /&gt;退得更远，&lt;br /&gt;&lt;br /&gt; 才能看清楚该怎样把它们连接起来。”&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;</subtitle>
     <logo>https://unstoppablelegendaryanimal.github.io/images/avatar.png</logo>
     <icon>https://unstoppablelegendaryanimal.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Utopiosphere</rights>
