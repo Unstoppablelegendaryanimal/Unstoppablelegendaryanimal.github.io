@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unstoppablelegendaryanimal.github.io</id>
     <title>Utopiosphere</title>
-    <updated>2020-06-08T15:53:58.095Z</updated>
+    <updated>2020-06-09T03:34:10.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unstoppablelegendaryanimal.github.io"/>
     <link rel="self" href="https://unstoppablelegendaryanimal.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://unstoppablelegendaryanimal.github.io/images/avatar.png</logo>
     <icon>https://unstoppablelegendaryanimal.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Utopiosphere</rights>
+    <entry>
+        <title type="html"><![CDATA[【设定】四枚入]]></title>
+        <id>https://unstoppablelegendaryanimal.github.io/she-ding-si-mei-ru/</id>
+        <link href="https://unstoppablelegendaryanimal.github.io/she-ding-si-mei-ru/">
+        </link>
+        <updated>2020-06-09T03:31:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Repost from BiliBili】Three Pieces of TED]]></title>
         <id>https://unstoppablelegendaryanimal.github.io/ted-liang-ze/</id>
@@ -72,24 +79,5 @@
         <link href="https://unstoppablelegendaryanimal.github.io/critical-thinking/">
         </link>
         <updated>2020-05-29T06:25:13.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掠影集]]></title>
-        <id>https://unstoppablelegendaryanimal.github.io/lue-ying-ji/</id>
-        <link href="https://unstoppablelegendaryanimal.github.io/lue-ying-ji/">
-        </link>
-        <updated>2020-05-28T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<font face="仿宋">
-<blockquote>
-<p><strong>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</strong></p>
-</blockquote>
-</font>
-]]></summary>
-        <content type="html"><![CDATA[<font face="仿宋">
-<blockquote>
-<p><strong>“其实你就是<br /> 没有赶上你的时代的<br />人们的镜子和副本<br />别人将是<br />而且正是<br />你在人世的永生”</strong></p>
-</blockquote>
-</font>
-]]></content>
     </entry>
 </feed>
